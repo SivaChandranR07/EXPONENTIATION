@@ -1,6 +1,6 @@
 # Find the exponentiation of a number
 
-## AIM:
+## Aim:
 To write a program to find the exponentiation of a number.
 
 ## Equipments Required:
@@ -17,8 +17,10 @@ Use exponentiation operator to find the exponentiation of a number.
 ```python
 
 #Program to to find the Exponentiation of a number.
+
 #Developed by: Siva Chandran R
 #RegisterNumber: 22005531
+
 
 s1=int(input())
 s2=int(input())
