@@ -15,6 +15,7 @@ Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
 ```python
+
 #Program to to find the Exponentiation of a number.
 #Developed by: Siva Chandran R
 #RegisterNumber: 22005531
@@ -22,6 +23,7 @@ s1=int(input())
 s2=int(input())
 c=s1**s2
 print("Exponentiation of a given number:",c)
+
 ```
 
 ## Output:
