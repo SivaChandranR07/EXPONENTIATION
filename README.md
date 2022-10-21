@@ -28,6 +28,9 @@ c=s1**s2
 print("Exponentiation of a given number:",c)
 
 
+
+
+
 ```
 
 ## Output:
